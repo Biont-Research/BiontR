@@ -14,4 +14,4 @@ Closes #
 - [ ] README or docs updated if behaviour changed
 - [ ] NEWS.md / CHANGELOG.md updated under "Unreleased"
 - [ ] No data, passwords or tokens committed
-- [ ] Reviewed by the other person before merging
+- [ ] Second review done, if the review rules require it (instrument software, code shipped to customers)
