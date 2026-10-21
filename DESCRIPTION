@@ -17,5 +17,5 @@ Imports:
     stringr,
     units,
     Rdpack
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 RdMacros: Rdpack

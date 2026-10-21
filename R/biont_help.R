@@ -109,6 +109,7 @@ weighted.var.se <- function(x, w, na.rm = FALSE) {
   if (na.rm) {
     w <- w[i <- !is.na(x)]
     x <- x[i]
+    print('hallo Lore')
   }
   n <- length(w)
   xWbar <- weighted.mean(x, w, na.rm = na.rm)
